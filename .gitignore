@@ -1,0 +1,17 @@
+*.csproj
+*.pidb
+*.sln
+.DS_Store
+Library/*
+Publish/*
+Temp/*
+Screenshots/*
+obj/*
+UnityPackageManager/*
+Video/*
+Logs/*
+.vs/*
+*.userprefs
+*.unityproj
+*.sublime-project
+*.sublime-workspace
